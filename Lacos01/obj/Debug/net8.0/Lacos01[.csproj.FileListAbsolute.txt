@@ -1,0 +1,14 @@
+C:\Users\56344123826\Desktop\aula back end\Lacos01\obj\Debug\net8.0\Lacos01[.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56344123826\Desktop\aula back end\Lacos01\obj\Debug\net8.0\Lacos01[.AssemblyInfoInputs.cache
+C:\Users\56344123826\Desktop\aula back end\Lacos01\obj\Debug\net8.0\Lacos01[.AssemblyInfo.cs
+C:\Users\56344123826\Desktop\aula back end\Lacos01\obj\Debug\net8.0\Lacos01[.csproj.CoreCompileInputs.cache
+C:\Users\56344123826\Desktop\aula back end\Lacos01\bin\Debug\net8.0\Lacos01[.exe
+C:\Users\56344123826\Desktop\aula back end\Lacos01\bin\Debug\net8.0\Lacos01[.deps.json
+C:\Users\56344123826\Desktop\aula back end\Lacos01\bin\Debug\net8.0\Lacos01[.runtimeconfig.json
+C:\Users\56344123826\Desktop\aula back end\Lacos01\bin\Debug\net8.0\Lacos01[.dll
+C:\Users\56344123826\Desktop\aula back end\Lacos01\bin\Debug\net8.0\Lacos01[.pdb
+C:\Users\56344123826\Desktop\aula back end\Lacos01\obj\Debug\net8.0\Lacos01[.dll
+C:\Users\56344123826\Desktop\aula back end\Lacos01\obj\Debug\net8.0\refint\Lacos01[.dll
+C:\Users\56344123826\Desktop\aula back end\Lacos01\obj\Debug\net8.0\Lacos01[.pdb
+C:\Users\56344123826\Desktop\aula back end\Lacos01\obj\Debug\net8.0\Lacos01[.genruntimeconfig.cache
+C:\Users\56344123826\Desktop\aula back end\Lacos01\obj\Debug\net8.0\ref\Lacos01[.dll

@@ -1,0 +1,14 @@
+C:\Users\56344123826\Desktop\aula back end\Laco02\obj\Debug\net8.0\Laco02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56344123826\Desktop\aula back end\Laco02\obj\Debug\net8.0\Laco02.AssemblyInfoInputs.cache
+C:\Users\56344123826\Desktop\aula back end\Laco02\obj\Debug\net8.0\Laco02.AssemblyInfo.cs
+C:\Users\56344123826\Desktop\aula back end\Laco02\obj\Debug\net8.0\Laco02.csproj.CoreCompileInputs.cache
+C:\Users\56344123826\Desktop\aula back end\Laco02\bin\Debug\net8.0\Laco02.exe
+C:\Users\56344123826\Desktop\aula back end\Laco02\bin\Debug\net8.0\Laco02.deps.json
+C:\Users\56344123826\Desktop\aula back end\Laco02\bin\Debug\net8.0\Laco02.runtimeconfig.json
+C:\Users\56344123826\Desktop\aula back end\Laco02\bin\Debug\net8.0\Laco02.dll
+C:\Users\56344123826\Desktop\aula back end\Laco02\bin\Debug\net8.0\Laco02.pdb
+C:\Users\56344123826\Desktop\aula back end\Laco02\obj\Debug\net8.0\Laco02.dll
+C:\Users\56344123826\Desktop\aula back end\Laco02\obj\Debug\net8.0\refint\Laco02.dll
+C:\Users\56344123826\Desktop\aula back end\Laco02\obj\Debug\net8.0\Laco02.pdb
+C:\Users\56344123826\Desktop\aula back end\Laco02\obj\Debug\net8.0\Laco02.genruntimeconfig.cache
+C:\Users\56344123826\Desktop\aula back end\Laco02\obj\Debug\net8.0\ref\Laco02.dll
