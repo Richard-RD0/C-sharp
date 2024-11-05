@@ -1,0 +1,15 @@
+C:\Users\56344123826\Desktop\aula back end\POO\ClasseOB\bin\Debug\net8.0\ClasseOB.exe
+C:\Users\56344123826\Desktop\aula back end\POO\ClasseOB\bin\Debug\net8.0\ClasseOB.deps.json
+C:\Users\56344123826\Desktop\aula back end\POO\ClasseOB\bin\Debug\net8.0\ClasseOB.runtimeconfig.json
+C:\Users\56344123826\Desktop\aula back end\POO\ClasseOB\bin\Debug\net8.0\ClasseOB.dll
+C:\Users\56344123826\Desktop\aula back end\POO\ClasseOB\bin\Debug\net8.0\ClasseOB.pdb
+C:\Users\56344123826\Desktop\aula back end\POO\ClasseOB\obj\Debug\net8.0\ClasseOB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56344123826\Desktop\aula back end\POO\ClasseOB\obj\Debug\net8.0\ClasseOB.AssemblyInfoInputs.cache
+C:\Users\56344123826\Desktop\aula back end\POO\ClasseOB\obj\Debug\net8.0\ClasseOB.AssemblyInfo.cs
+C:\Users\56344123826\Desktop\aula back end\POO\ClasseOB\obj\Debug\net8.0\ClasseOB.csproj.CoreCompileInputs.cache
+C:\Users\56344123826\Desktop\aula back end\POO\ClasseOB\obj\Debug\net8.0\ClasseOB.sourcelink.json
+C:\Users\56344123826\Desktop\aula back end\POO\ClasseOB\obj\Debug\net8.0\ClasseOB.dll
+C:\Users\56344123826\Desktop\aula back end\POO\ClasseOB\obj\Debug\net8.0\refint\ClasseOB.dll
+C:\Users\56344123826\Desktop\aula back end\POO\ClasseOB\obj\Debug\net8.0\ClasseOB.pdb
+C:\Users\56344123826\Desktop\aula back end\POO\ClasseOB\obj\Debug\net8.0\ClasseOB.genruntimeconfig.cache
+C:\Users\56344123826\Desktop\aula back end\POO\ClasseOB\obj\Debug\net8.0\ref\ClasseOB.dll
